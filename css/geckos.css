@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: paleturquoise;
+}
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+h1 {
+  text-align: center;
+  margin-bottom: 0;
+}
+
+small {
+  display: block;
+  text-align: center;
+}
+
+article > p {
+  text-indent: 40px;
+}
+#img-caption {
+    line-height:2;
+}
+
+#img-div {
+  text-align: center;
+  background-color: cornflowerblue;
+  width: 60%;
+  margin: 0 auto;
+  border-radius:10px;
+}
+#main {
+  background-color: paleturquoise;
+  
+}
+#tribute-info {
+  width: 80%;
+  margin: auto
+}
+
+.home{
+  margin-left: 10%;
+}

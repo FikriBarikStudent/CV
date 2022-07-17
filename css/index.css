@@ -1,0 +1,17 @@
+body {
+    background-color: paleturquoise;
+}
+hr {
+    border-color: cornflowerblue;
+    border-style: dotted none none;
+    border-width: 7px;
+    height: 5px;
+    width: 5%;
+}
+
+img {
+    border-radius: 50%;
+}
+h1,h3 {
+    color: steelblue;
+}
